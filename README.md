@@ -1,4 +1,4 @@
-# 📱 SMS Spam Classifier
+# 📱 SMS Spam Classifier 
 
 A machine learning web application that classifies SMS messages as **Spam** or **Ham (Not Spam)** using the Multinomial Naive Bayes algorithm — deployed live with Flask on Render.
 
